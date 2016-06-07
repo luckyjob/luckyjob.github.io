@@ -1,2 +1,2 @@
-# luckyjob.github.io
-for test
+# 恐龙小游戏
+fork by T-REX RUNNER
